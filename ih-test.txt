@@ -1,1 +1,4 @@
-password=12345
+username:Pxv+5xg4GHy/iFCrHk
+password: VpoiQOwEbddweUyqs
+clientID:5gFcA5hiHwD/MkI85
+clientSecret: U0m4YtkdZ+xbbFwYvu
